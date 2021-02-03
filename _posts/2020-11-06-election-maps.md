@@ -20,10 +20,10 @@ While one should be careful labelling any map as 'wrong' or 'correct' (after all
 
 Similarly, using a very large geographical unit reinforces ideas about homogeneous regions where most, if not all, inhabitants vote and think similarly. This is for example the case in many of the maps used to map the results of the national elections in Denmark:
 
-![Map of election results in Denmark, visualised for each municipality](/assets/img/folketingsvalg1.jpg)
-<em>Map of election results in Denmark, visualised for each municipality. Source: [dr.dk](https://www.dr.dk/nyheder/politik/valg2015/se-kortet-danmark-delt-i-tre)</em>
-  
-
+<img src="/assets/img/folketingsvalg3.png" alt="Map of election results in Denmark, visualised for each municipality" width="80%">
+<em>Map of election results in Denmark, visualised for each municipality. Source: [dr.dk](https://www.dr.dk/nyheder/politik/folketingsvalg/se-forskellen-danmarkskortet-viser-dfs-vaelgerlussing)</em>
+<br>
+<br>
 In contrast, the map below shows the same data and same election results, but does not to the same extent reinforce the idea of clear-cut urban-rural divides in political affiliation.
 
 ![Map of election results in Denmark, visualised for each constituency](/assets/img/folketingsvalg2.png)
@@ -37,12 +37,12 @@ One way of getting around this is to use shades based on population density, but
 
 ![Map of US election results in 2016, using shades to visualize population density](/assets/img/ny_2016.png)
 <em>Map of US election results in 2016, using shades to visualize population density. Source: [New York Times](https://www.nytimes.com/interactive/2018/upshot/election-2016-voting-precinct-maps.html?mtrref=undefined&assetType=REGIWALL#3.98/39.52/-97.87)</em>  
-
+<br>
 
 To overcome this challenge, some turn to so-called cartograms like the one below (in cartograms the size of each unit is sized in proportion with the data visualized on the map).
 
 ![A cartogram of the US election results](/assets/img/cartogram.png)
-<em>Source: [Worldmapper.org](https://worldmapper.org/us-presidential-election-2020/)</em>
+<em>Source: [Worldmapper.org](https://worldmapper.org/us-presidential-election-2020/)</em>  
 
 While fun to look at, most people want to be able to locate themselves, or at least their home town in a map, and that is tricky when the map no longer contains the well-known shapes of more common map projections.
 
